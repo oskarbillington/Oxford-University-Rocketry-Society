@@ -1,0 +1,1 @@
+Actual code that was launched with a rocket. Flags are used to initiate transmission of GPS coordinates using radio signals because each transmission blocks the flight data capture from the sensors (no parallel processing with a single Arduino microprocessor). The code is compromised because it completely maxes out the memory on the board as well
