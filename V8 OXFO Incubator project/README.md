@@ -1,0 +1,1 @@
+This code is part of my investigation into the atmospheric re-entry of a spacecraft from Low Earth Orbit-altitudes. It is based on real data to model the atmosphere and the results were used to make design decisions which were central to evaluating our business case
